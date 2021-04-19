@@ -1,5 +1,5 @@
 # Deep Learning
-This repository holds everything related to the deep learning lecture of the HTW Saar (Sommersemester 2021 - Praktische Informatik (applied computer science)).
+This repository serves as a summary or a look up reference to the deep learning lecture of the HTW Saar (Sommersemester 2021 - Praktische Informatik (applied computer science)).
 
 ## Machine Learning Fundamentals
 ## Representational Learning
