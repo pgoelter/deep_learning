@@ -4,8 +4,9 @@ This repository serves as a summary or a look up reference to the deep learning 
 
 ## Environment Setup
 
-To execute the code samples in python files or jupyter notebooks, setup a virtual environment with the required packages. The virtual environment can either be done directly via anaconda (environment.yml) or manually by installing the packages via pip.  
 **Python version 3.8 is required**
+
+To execute the code samples in python files or jupyter notebooks, setup a virtual environment with the required packages. The virtual environment can either be done directly via anaconda (environment.yml) or manually by installing the packages via pip.
 
 ### Setup with anaconda
 
